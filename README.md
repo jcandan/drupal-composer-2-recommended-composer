@@ -15,7 +15,7 @@ Here we provide an oppinionated `.gitignore` that follows Composer recommended m
 We also missed out on the very useful `dotenv` file for environment specific variables. 
 
 1. Copy the `autoload` property to `composer.json`.
-2. Uncomment the `/web/sites/defatul/settings.php` in `.gitignore`
+2. Uncomment the `/web/sites/default/settings.php` in `.gitignore`
 3. Follow the directions noted in `.env.example`
 4. Place `load.environment.php` in your project root
 5. Run the following:

@@ -25,7 +25,7 @@ web/core
 
 # Uncomment to keep settings.php for cross-environment configuration.
 # WARNING: Do not store sensitive information in this file.
-#!/web/sites/defatul/settings.php
+#!/web/sites/default/settings.php
 
 # Ignore paths that contain user-generated content.
 /web/sites/*/files
